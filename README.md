@@ -15,11 +15,6 @@
 
 ---
 
-## 🤡 What Debugging Feels Like  
-![Debugging](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)  
-
----
-
 ## 🚀 How I Code vs. How It Runs  
 ### **Expectation:**  
 ![Expectation](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)  
@@ -29,14 +24,8 @@
 
 ---
 
-## 😵‍💫 When I Finally Fix a Bug  
-![Bug Fixed](https://media.giphy.com/media/5xtDarIN81U0KvlnGyk/giphy.gif)  
-
----
-
 ### 🎯 Goals  
 ✅ Build cool projects  
-✅ Get an internship  
 ✅ Take over the tech world (or at least my laptop)  
 
 ---
@@ -44,10 +33,6 @@
 ### 🤔 What I Do When Code Doesn't Work  
 ![Thinking](https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif)  
 
----
-
-### 😆 Random Meme for You  
-![Coding Meme](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)  
 
 ---
 
