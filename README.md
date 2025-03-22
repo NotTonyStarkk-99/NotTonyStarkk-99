@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm @NotTonyStarkk-99  
+# 👋 Hey there! I'm @NotTonyStarkk-99 aka Talha Aamir  
 
 🚀 **Aspiring Developer | Tech Enthusiast | Debugging Wizard in Training**  
 
